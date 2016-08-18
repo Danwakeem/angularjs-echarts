@@ -1,0 +1,29 @@
+{
+  "name": "angularjs-echarts",
+  "version": "1.0.0",
+  "description": "A dead simple angularjs directive that integrates with echarts",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/jshint/bin/jshint src/angularjs-echarts.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danwakeem/angularjs-echarts.git"
+  },
+  "keywords": [
+    "angularjs",
+    "bower",
+    "echarts",
+    "charts"
+  ],
+  "author": "Danwakeem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danwakeem/angularjs-echarts/issues"
+  },
+  "homepage": "https://github.com/Danwakeem/angularjs-echarts#readme",
+  "devDependencies": {
+    "jshint": "^2.9.2",
+    "standard": "^7.1.2"
+  }
+}
