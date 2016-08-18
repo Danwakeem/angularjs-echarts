@@ -19,7 +19,7 @@ Of course, you can always use the poor mans install and simply download the sour
 After you have installed `angularjs-echarts`, you need to make sure to include it in the same HTML files as you did for your angular app.
 
 ```html
-<script type="text/javascript" src="bower_components/angularjs-echarts/angularjs-echarts.js"></script>
+<script type="text/javascript" src="bower_components/angularjs-echarts/src/angularjs-echarts.min.js"></script>
 ```
 
 After you have included it all of your desired HTML files you will need to inject it into your angular app. To do so, add the following to your angular app:
