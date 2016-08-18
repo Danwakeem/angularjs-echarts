@@ -4,7 +4,7 @@
     "DanJarvis <Danwakeem@gmail.com>"
   ],
   "description": "Dead simple angularjs directive to manage echarts",
-  "main": "angularjs-echarts.js",
+  "main": "src/angularjs-echarts.js",
   "keywords": [
     "angularjs",
     "echarts",
