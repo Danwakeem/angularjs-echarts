@@ -12,7 +12,7 @@
     "charts"
   ],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/Danwakeem/angularjs-echarts",
   "ignore": [
     "**/.*",
     "node_modules",
