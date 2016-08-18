@@ -6,7 +6,7 @@ This is a very simple angularjs directive for [echarts](https://ecomfe.github.io
 
 ## Install
 
-The easiest way to use this directive is to install it with the bower command line interface. To do so, make sure that you have first installed bower. Then simply run this command:
+The easiest way to use this directive is to install it with the bower command line interface. To do so, make sure that you have first [installed bower](https://bower.io/). Then simply run this command:
 
 ```
 bower install angularjs-echarts
