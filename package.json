@@ -2,7 +2,6 @@
   "name": "angularjs-echarts",
   "version": "1.0.0",
   "description": "A dead simple angularjs directive that integrates with echarts",
-  "main": "index.js",
   "scripts": {
     "test": "./node_modules/jshint/bin/jshint src/angularjs-echarts.js"
   },
