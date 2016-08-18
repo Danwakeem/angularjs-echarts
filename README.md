@@ -1,4 +1,5 @@
 [![JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+[![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
 # Angularjs-Echarts
 
@@ -34,7 +35,7 @@ Pheww, now that you have jumped though all the hoops and you have smashed all of
 <echarts options="yourOptionsObj"></echarts>
 ```
 
-And that is it! Now you have an echart on your HTML page in your angularjs app. 
+And that is it! Now you have an echart on your HTML page in your angularjs app.
 
 ### NOTE
 This directive will set a default height and width of 300px. If you would like to set a custom height and width for your chart all you need to do is include height and width as attributes on your `echarts` tag like this:
